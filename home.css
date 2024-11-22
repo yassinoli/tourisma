@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3");
+background-size: cover;
+}
+h1 {
+    font-size:x-large; /* Ajustez selon vos préférences */
+    color: rgb(22, 7, 7);
+    text-transform: uppercase; /* Met le texte en majuscules */
+    text-shadow: 10px 10px 4px rgba(13, 42, 101, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+  }
+.form-select{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    margin-top: 10%;
+    height: 35px;
+   border-radius: 15px;
+   background: transparent;
+
+}
+#login-button{
+    height: 35px;
+    width: 110px;
+    margin:5% 45%  ;
+    align-self: center;
+    text-decoration: solid;
+    background: transparent;
+    border-radius: 20px;
+    text-shadow: (10px 10px 2);
+}
+option{
+    background: transparent;
+}
